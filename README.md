@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xtrdnrmnd
-- 👀 I’m interested in full-stack development
-- 🌱 I’m currently learning Swift and React
+- 👀 I’m interested in working with Data
+- 🌱 I’m currently working in a Data Science team and strengthening my skills
 - 💞️ I’m looking to collaborate on any project where my skills can come handy :)
 - 📫 How to reach me: mail: xtrdnrmnd@gmail.com
 
